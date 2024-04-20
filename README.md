@@ -1,4 +1,3 @@
 # littlegrad
-![smol cat](https://i.redd.it/b4c9wlxa73o31.png)
-littlegrad is tiny, light-weight autograd engine that implements backpropagation. 
-Inspired by Karpathy's micrograd.
+littlegrad is a tiny and lightweight autograd engine that implements backpropagation. 
+Inspired by Karpathy's [micrograd](https://github.com/karpathy/micrograd) library.
