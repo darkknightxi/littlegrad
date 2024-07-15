@@ -1,4 +1,6 @@
 # littlegrad
+<img src = "kitten.jpg" height="20%">
+
 littlegrad is a tiny and lightweight automatic differentiation engine that implements backpropagation over a dynamically built DAG and a small neural network library on top of it with a PyTorch-like API. 
 Inspired by Karpathy's [micrograd](https://github.com/karpathy/micrograd) library.
 
